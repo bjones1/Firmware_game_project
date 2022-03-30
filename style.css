@@ -1,0 +1,5 @@
+body { background-color: grey; color: beige; text-align: center; width: 80%;}
+
+h1 {color: aquamarine; text-align: center;}
+
+/* I am using a grey background for the whole page. The width I put at 80% so it doesn't matter what the size of the monitor is. Visual code makes is really easy to pick out colors and find the wording I need to make the css sytle sheet functional. I am using "HTML & CSS QuickStart Guide" by David DuRocher. He talks not only about visual studio but also github. 

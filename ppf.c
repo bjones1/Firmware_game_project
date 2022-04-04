@@ -12,17 +12,14 @@ We came up with the concept to build this website because we recognized a need f
 ----------------------
 **Format of this E-book**
 ==========================
-*  The walkthrough html page that explains the information that will be covered in the codechat course (insert link)
+*  The walkthrough html page that explains the information that will be covered in the codechat `course <insert link)>`_
 *   The jeopardy game interactive game that will test your knowledge of what you read in the walkthrough
 
 Future
 ------------------
 **End Goal**
 ===============
-Thor will move on this map that has the coordinates of 40 wide by 18 high. As the light of power changes locations your goal is change the direction of Thor's movements based on the coordinate placement of the light of power.
-
-
-*Note: You can utilize any coding language that you are most comfortable with to write this code by changing this option in the code tab. I chose to use C++*
+We hope to make the features of the Jeopardy game multiplayer and able to keep track of the players score. Also with the future development of this course we hope more guidebooks can be added for Github and trouble shooting. 
 
 Authors & Contributors
 ----------------------

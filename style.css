@@ -1,12 +1,30 @@
+
+/* ********************** */
+/* CSS Style Sheet */
+/* ********************** */
+/* CSS Style Sheets can be very simple to use. As long as you know the the tag/variable name for the section your are trying to motifiy. */
+
+/* ^^^^^^^^^^^^^^^^^^^^^^^^ */
+/* The Body */
+/* ^^^^^^^^^^^^^^^^^^^^^^^^ */
+/* I am using a Black background for the whole page. The width I put at 80% so it doesn't matter what the size of the monitor is. Visual code makes is really easy to pick out colors and find the wording I need to make the css sytle sheet functional. I am using "HTML & CSS QuickStart Guide" by David DuRocher. He talks not only about visual studio but also github. The below is the body. So this is the default for everything in the body section of the html. */
+
 body { background-color: black ; color: rgb(245, 245, 236); text-align: center; width: 80%; font-family: Arial, Helvetica, sans-serif;font-size: medium;}
 
+/* The coding below is for the different headers. Visual studio does auto fill in. If you want to change the font, just type font- and it will give you a list of things you can do to the font */
 h1 {color: aquamarine; text-align: center;}
 h2 {color: lightseagreen; text-align: center; text-decoration: underline;}
 
-/* I am using a Black background for the whole page. The width I put at 80% so it doesn't matter what the size of the monitor is. Visual code makes is really easy to pick out colors and find the wording I need to make the css sytle sheet functional. I am using "HTML & CSS QuickStart Guide" by David DuRocher. He talks not only about visual studio but also github. */
-
+/* ^^^^^^^^^^^^^^^^^^^^^^^^ */
+/* Table */
+/* ^^^^^^^^^^^^^^^^^^^^^^^^ */
+/* The coding below is for the table. This is where the formating for the game table could be done */
 table {text-align: center; grid-row: auto;}
 
+/* ^^^^^^^^^^^^^^^^^^^^^^^^ */
+/* Buttons */
+/* ^^^^^^^^^^^^^^^^^^^^^^^^ */
+/* Below is the coding for the buttons and a tag. */
 button {
     background-color: aquamarine; /* Green */
     border: none;
@@ -17,5 +35,5 @@ button {
     display: inline-block;
     font-size: 16px;
   }
-
+/* below is the tag for the hyperlinks that are found on the homepage. DO NOT REMOVE THIS! If you do the hyperlinks go back to blue and you can't see them.  */
   a {color: aliceblue;}

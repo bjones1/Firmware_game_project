@@ -11,9 +11,18 @@ Code File List
 .. toctree::
     :maxdepth: 2
 
-    index.html
+    walkthrough.c
+    ppf.c
+    
+Jeopardy Homepage
+===================
+.. toctree::
+    Homepage.html
     walthrough.c
     style.css
+    ppf.c
+    Game1_page.html
+    
 
 Supporting files
 ================

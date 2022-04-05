@@ -46,7 +46,7 @@ import CodeChat.CodeToRest
 # `project <https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-project>`_  and
 # `copyright <https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-copyright>`_:
 # General information about the project. **Change this** for your project.
-project = "Project Name"
+project = "Firmware Guide"
 copyright = "2020, Author"
 
 # The version info for the project you're documenting, acts as replacement for

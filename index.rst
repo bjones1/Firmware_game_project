@@ -1,23 +1,27 @@
 ****************************************
-Firmware Guide Game
+Guide to Codechat
 ****************************************
-This project provides a place to showcase the various programs written to solve puzzles at https://codingame.com.
+This interactive Ebook was created to benefit those that utilize the codechat system.
 
 
-Code File List
-==================
-
+Links to E-book
+=================================
 
 .. toctree::
     :maxdepth: 2
 
-    index.html
-    walthrough.c
-    style.css
+    walkthrough.c
+    ppf.c
+    
+Jeopardy Homepage
+===================
+.. toctree::
+    Homepage.html
+    Game1_page.html
 
 Supporting files
 ================
-Instead of offering puzzle solutions, these files define the Sphinx project used to render the files or configure Git for this project.
+These are additional links that direct you to the writers of codechat an more information about this system.
 
 .. toctree::
 
@@ -26,7 +30,6 @@ Instead of offering puzzle solutions, these files define the Sphinx project used
     .gitignore
     readthedocs.yml
 
-
 Search
-======
+------------------
 * :ref:`search`

@@ -11,9 +11,12 @@ Code File List
 .. toctree::
     :maxdepth: 2
 
-    index.html
+    Homepage.html
     walthrough.c
     style.css
+    ppf.c
+    Game1_page.html
+    
 
 Supporting files
 ================

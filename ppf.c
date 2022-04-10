@@ -38,6 +38,6 @@ In constructing this E-book and interactive gameplay these are the designers and
 
 *   `Kaitlyn Jackson <https://github.com/Kahjax>`_
 *   Olivia Starnes
-*   Add your Name here
-*   Add your Name here
+*   Logan Williams
+*   Christian Watson
 */ 

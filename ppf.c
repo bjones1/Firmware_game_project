@@ -22,7 +22,7 @@ We came up with the concept to build this website because we recognized a need f
 *Game1_page.html*
     * Code a way to run the html game questions page to check if the answers are correct.
     * Center the jeopardy game chart 
-    * Finsh the buttons on the gaming portion
+    * Finish the buttons on the gaming portion
     * Create more questions and answer files
 *Walkthrough*
     * Put more codechat information that will help anyone that takes this course

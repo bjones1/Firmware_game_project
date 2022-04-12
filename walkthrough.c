@@ -34,9 +34,9 @@ When you would like to make text bolded you must use 2 asterisk (**) before and 
 
 **Italics**
 
-When you would like to make text italized you must use 1 asterisk (*) before and after the word.
+When you would like to make text italicized you must use 1 asterisk (*) before and after the word.
 
-``*Italized text*``
+``*italicized text*``
 
 **Bulletpoints and Numbers**
 
@@ -55,7 +55,7 @@ For inserting images into your codechat file, you must use two periods (..) foll
 
 **Sections**
 
-Files can be sectioned off into headers, subheaders, paragraphs, etc... based on the characters used to underline a specific line of text. A list is provided below with different characters used to create different sections along with an example of underlining, however keep in mind that heading levels are defined primarly by the user. Codechat will pick up on the order the characters were introduced in, and then organize them accordingly.
+Files can be sectioned off into headers, subheaders, paragraphs, etc... based on the characters used to underline a specific line of text. A list is provided below with different characters used to create different sections along with an example of underlining, however keep in mind that heading levels are defined primarily by the user. Codechat will pick up on the order the characters were introduced in, and then organize them accordingly.
 
 * ``# with overline, for parts``
 
@@ -76,7 +76,7 @@ Example:
 
 **Footnotes**
 
-To use Footnotes,  estiblish locations that your footenotes will reference to, then number them. Codechat will automatically number them if the # is used, or the user can number them themselves using # and the number of the footnote next to it. 
+To use Footnotes,  establish locations that your footnotes will reference to, then number them. Codechat will automatically number them if the # is used, or the user can number them themselves using # and the number of the footnote next to it. 
 
 ``Location 1 [#f1]_ Location 2 ... [#f2]_``
 
@@ -110,7 +110,7 @@ Toctrees are used to accomplish two important things when making codechat projec
 
 **Notes**
 
-Creating notes in Codechat is a valuable tool at your disposal, espcially when marking up other creator's documents. Notes allow for additional information to be added and emphasized more clearly than by having a normal inline comment. To create a note, use two periods(..) followed by a space and then the name of the note, which is followed by two colons(::). An example of a note is: 
+Creating notes in Codechat is a valuable tool at your disposal, especially when marking up other creator's documents. Notes allow for additional information to be added and emphasized more clearly than by having a normal inline comment. To create a note, use two periods(..) followed by a space and then the name of the note, which is followed by two colons(::). An example of a note is: 
 
 .. note:: This is a note's syntax inside of a note! .. Note:: insert text here
 

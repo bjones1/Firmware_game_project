@@ -18,7 +18,8 @@ h2 {color: lightseagreen; text-align: center; text-decoration: underline;}
 /* ^^^^^^^^^^^^^^^^^^^^^^^^ */
 /* Table */
 /* ^^^^^^^^^^^^^^^^^^^^^^^^ */
-/* The coding below is for the table. This is where the formatting for the game table could be done */
+/* The coding below is for the table. This is where the formatting for the game table could be done. While attempting to center the table, we've went with automatic margins, although there is room for this to be adjusted to allow the table to fit better on the screen. */
+table.center { margin-left:auto; margin-right:auto;}
 table {text-align: center; grid-row: auto;}
 
 /* ^^^^^^^^^^^^^^^^^^^^^^^^ */

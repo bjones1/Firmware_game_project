@@ -22,7 +22,6 @@ Jeopardy Homepage
     style.css
     ppf.c
     Game1_page.html
-    
 
 Supporting files
 ================

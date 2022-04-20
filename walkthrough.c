@@ -34,14 +34,85 @@ When you would like to make text bolded you must use 2 asterisk (**) before and 
 
 **Italics**
 
-When you would like to make text italized you must use 1 asterisk (*) before and after the word.
+When you would like to make text italicized you must use 1 asterisk (*) before and after the word.
 
-``*Italized text*``
+``*italicized text*``
 
 **Bulletpoints and Numbers**
 
 When you would like to create bullet points in your writing you must tab then place an asterisk. An example of this:
 
     * Word
+
+Images, Sections, footnotes, etc...
+===================================
+
+**Images**
+
+For inserting images into your codechat file, you must use two periods (..) followed by a space and then the word image, which is followed by two colons(::). An example of this code is:
+
+``.. image:: file.png/jpeg/jpg``
+
+**Sections**
+
+Files can be sectioned off into headers, subheaders, paragraphs, etc... based on the characters used to underline a specific line of text. A list is provided below with different characters used to create different sections along with an example of underlining, however keep in mind that heading levels are defined primarily by the user. Codechat will pick up on the order the characters were introduced in, and then organize them accordingly.
+
+* ``# with overline, for parts``
+
+* ``* with overline, for chapters``
+
+* ``= for sections``
+
+* ``- for subsections``
+
+* ``^ for subsubsections``
+
+* ``" for paragraphs``
+
+Example: 
+
+| ``Text``
+| ``====``
+
+**Footnotes**
+
+To use Footnotes,  establish locations that your footnotes will reference to, then number them. Codechat will automatically number them if the # is used, or the user can number them themselves using # and the number of the footnote next to it. 
+
+``Location 1 [#f1]_ Location 2 ... [#f2]_``
+
+``.. rubric:: Footnotes``
+
+| ``.. [#f1] Text of the first footnote.``
+| ``.. [#f2] Text of the second footnote.``
+
+**Hyperlinks**
+
+Hyperlinks can be used either externally to link to something on the web, or internally to link back to documentation appropriate to the file. Additionally, links can  be represented by either their entire URL or by a word or phrase. When linking to an external location, a URL must be provided in the code, however when linking to a location already in the file, a reference command is used. When linking to an external file, +Examples of each are:
+
+Codechat installation is located here: <https://codechat-system.readthedocs.io/en/latest/CodeChat_Server/install.html>
+
+Codechat installation is also located `here`_.
+
+.. _here: https://codechat-system.readthedocs.io/en/latest/CodeChat_Server/install.html
+
+
+Toctrees and Notes
+===================================
+
+**Toctree**
+
+Toctrees are used to accomplish two important things when making codechat projects: creating a table of contents that includes all documents included inside of a project and producing a system of parent-child chapters that relate each of the files to each other. An example of a toctree similar to one used in this document is: 
+
+| ``.. toctree::``
+| ``:maxdepth: 2``
+| ``file1``
+| ``file2``
+
+**Notes**
+
+Creating notes in Codechat is a valuable tool at your disposal, especially when marking up other creator's documents. Notes allow for additional information to be added and emphasized more clearly than by having a normal inline comment. To create a note, use two periods(..) followed by a space and then the name of the note, which is followed by two colons(::). An example of a note is: 
+
+.. note:: This is a note's syntax inside of a note! .. Note:: insert text here
+
+
 */
-   // 

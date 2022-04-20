@@ -19,14 +19,18 @@ We came up with the concept to build this website because we recognized a need f
 ------------------
 **For the next group:**
 
+*Homepage.html*
+    * Work on centering text on page
+    * Add button functionality for additional codechat links once completed by other groups
 *Game1_page.html*
-    * Code a way to run the html game questions page to check if the answers are correct.
-    * Center the jeopardy game chart 
-    * Finsh the buttons on the gaming portion
-    * Create more questions and answer files
+    * Make the Jeopardy game chart more centered than it currently is
+    * Come up with questions good for beginners to codechat, we suggest asking both the class and Dr. Jones for suggestions
+    * Code a way to run the html game questions page to check if the answers are correct
+    * Add additional games that cover more topics in class
 *Walkthrough*
     * Put more codechat information that will help anyone that takes this course
-    * Ideas: notes, errors, troubleshooting, etc.
+    * Ideas: troubleshooting, etc...
+    * Add more information relating to SmartGit, Github, adding themes to sphinx, etc...
 
 **End Goal**
 
@@ -38,6 +42,8 @@ In constructing this E-book and interactive gameplay these are the designers and
 
 *   `Kaitlyn Jackson <https://github.com/Kahjax>`_
 *   Olivia Starnes
-*   Add your Name here
-*   Add your Name here
+*   Logan Williams
+*   Christian Watson
+*
+*
 */ 

@@ -44,6 +44,6 @@ In constructing this E-book and interactive gameplay these are the designers and
 *   Olivia Starnes
 *   Logan Williams
 *   Christian Watson
-*
-*
+*   Logan Johnson
+*   JP Gathings
 */ 
